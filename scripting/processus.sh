@@ -1,0 +1,5 @@
+processus()
+{
+ls /proc
+
+}
